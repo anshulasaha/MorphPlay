@@ -21,13 +21,6 @@ Mapped clothing color → scent profile → descriptive output
 Narrative projection on surrounding surface
 Built with JavaScript, ML5.js, Arduino, and custom scent database
 
-📂 Repository Structure
-
-/code           → ML5.js scripts, Arduino sketches
-/images         → Installation and process photos
-/scent-database → JSON of scent-memory mappings
-/README.md      → This file
-
 🌟 Recognition
 
 MorphPlay was selected as one of 15 featured innovations at Porter Novelli’s Innovation Salon (NYC, 2025), an event showcasing cutting-edge work in AR/VR, AI-powered storytelling, and emerging technologies.
